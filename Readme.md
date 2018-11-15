@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/AgDataGrid_BindRuntimeData/MainPage.xaml) (VB: [MainPage.xaml](./VB/AgDataGrid_BindRuntimeData/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/AgDataGrid_BindRuntimeData/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/AgDataGrid_BindRuntimeData/MainPage.xaml))
+* [Products.cs](./CS/AgDataGrid_BindRuntimeData/Products.cs) (VB: [Products.vb](./VB/AgDataGrid_BindRuntimeData/Products.vb))
+<!-- default file list end -->
 # How to Bind the Grid to Data Created at Runtime
 
 
